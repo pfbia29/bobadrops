@@ -1,0 +1,11 @@
+body{
+    font-family: 'Arial'; 
+    color: black; /* culoare dorita pentru background*/
+    background: rgb(173,216,230) ; /*culoare dorita pentru text*/
+    text-align: center;
+}
+
+img{
+    /*stilizare imagine*/
+    width: 100px; /* sau cat dorim */
+}
